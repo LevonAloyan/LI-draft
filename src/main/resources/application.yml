@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+    url: jdbc:sqlserver://li-db1;databaseName=LI_PRD
+    username: li
+    password: Aiz2ieTh
+    platform: mssql
+  jpa:
+    show-sql: true
+  elasticsearch:
+    rest:
+      uris: http://localhost:9200
+server:
+  port: 8888

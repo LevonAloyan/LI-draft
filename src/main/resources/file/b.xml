@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <result name="response" numFound="515" start="0">
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEB_9789089749703</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462906983</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462905238</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462901339</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462366244</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462364080</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462361058</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462360754</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789089749826</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789490947194</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462901568</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462901360</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462901261</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462900509</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789089748904</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEB_9789089746979</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789490947897</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789490947217</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789490947040</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789490947620</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789490947590</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462907089</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906969</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906921</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_CEM</str>
+                <str>DIGIBIEB_9789462906822</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462905627</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905597</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462905566</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906228</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462906167</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462904521</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462904408</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462904347</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904149</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462903890</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MIR</str>
+                <str>DIGIBIEB_9789462903609</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903326</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903173</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MDR</str>
+                <str>DIGIBIEB_9789462903050</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902923</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462902916</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462902749</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462902664</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462902619</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902312</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462902022</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462901797</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902138</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462369801</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462369139</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462368637</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462368613</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462368422</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462368378</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462368316</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462368293</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462367715</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462366022</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462905474</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905436</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905412</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905283</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462905276</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905252</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462905214</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462905177</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905009</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462904873</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462904859</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEB_9789462904194</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462904156</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462904019</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462903784</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462903654</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462903555</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903357</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462903258</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903135</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462903005</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462902350</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462902282</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462369641</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462369610</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462368538</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462368507</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MDR</str>
+                <str>DIGIBIEB_9789462368408</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462367708</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905740</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906051</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462905986</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462905702</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905696</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905726</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462906143</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462906105</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462906082</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904842</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462904774</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462904736</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462904682</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462904644</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904637</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462904569</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462904514</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462904279</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903579</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462903562</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462903340</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462903012</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462903029</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462902770</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462902589</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462902411</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462902367</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462901643</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462369870</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462900943</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462369474</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462368675</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462368668</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ERF</str>
+                <str>DIGIBIEB_9789462368569</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462368446</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462368415</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462368187</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462368156</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462367913</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462367739</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462367555</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462367135</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MDR</str>
+                <str>DIGIBIEB_9789462367074</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462366732</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361850</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361676</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789089749321</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789089748607</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462366251</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462361331</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462361232</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462367142</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462367104</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462366923</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462366749</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462366534</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462366503</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462361485</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361447</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462361409</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361348</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789089743923</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462906150</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462908420</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462908598</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462908703</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462907812</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906129</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905528</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462904545</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462904439</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462903838</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462903708</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462903333</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462903098</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462902794</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462902510</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462902701</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902145</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462369863</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462369764</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462369573</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462368583</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462368576</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462368484</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462367449</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462367166</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361393</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789490947156</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908604</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462906945</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462906891</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462906723</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEB_9789462904743</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462904224</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462903296</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462902824</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462901971</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462901933</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462902466</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462369467</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462369245</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462368477</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462368460</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462368439</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462368255</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462367517</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462365995</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361591</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEB_9789462367111</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462366886</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462366787</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462366619</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908284</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462906877</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462906860</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462906846</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906211</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906075</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905610</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462905450</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462905306</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462368774</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462368699</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462368309</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462368286</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462367982</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462367579</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462367975</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462901964</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462748231</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462369856</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462369658</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462369498</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462369207</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462368989</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462368866</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462368590</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462368217</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462368095</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462367852</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462367364</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462366398</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462366329</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462366312</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462366206</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789490947866</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908888</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462908581</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462908536</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462908451</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462908130</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462908093</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462907911</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462908338</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEB_9789462907768</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462907669</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462907270</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462907225</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462907164</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462907157</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462906587</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462905979</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906068</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905771</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905023</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462904835</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462905498</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905245</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462905221</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462903913</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462903845</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462904200</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462903197</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902909</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IER</str>
+                <str>DIGIBIEB_9789462361430</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462361201</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789490947835</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789490947583</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789490947231</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462908642</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462908697</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462908314</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462908147</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462908116</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462908109</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462908079</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462908062</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462906709</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462906686</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462906679</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_TR</str>
+                <str>DIGIBIEB_9789462906013</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462369931</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462900981</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462369955</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462369405</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462369276</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462369252</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462369214</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462369184</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEB_9789462369061</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462369047</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462369030</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462369009</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462368972</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462368651</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462368606</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MDR</str>
+                <str>DIGIBIEB_9789462368323</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462368101</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEB_9789462368026</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462367999</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462367920</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361683</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462361669</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361645</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361607</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361270</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789089749802</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789089740328</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789077596005</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361751</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462908666</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462908680</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908727</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908710</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908659</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462907140</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462907133</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462907126</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462907188</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462907171</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462907379</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462907348</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEB_9789462907232</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462907331</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462907287</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462907256</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462907249</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462907195</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462906570</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462906549</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462906280</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906594</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462906747</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906914</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462908475</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908055</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908017</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462908000</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462908246</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462908086</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462907966</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462907980</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462907973</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462907928</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462907829</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462907805</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462907034</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462907393</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906976</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906938</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462907744</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462907751</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462907614</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEB_9789462907607</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462907577</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462907416</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462908192</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462908185</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908444</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462907904</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462907874</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462907799</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEB_9789462907485</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462907300</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462907218</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908161</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462906884</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906853</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462906815</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906808</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462906761</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEB_9789462906426</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462906372</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462906365</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462906327</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906112</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462906099</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462904309</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904286</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462904262</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462904255</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462904231</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462904132</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462904118</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904026</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903999</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462903982</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462903944</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462903937</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903920</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903906</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462903807</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903791</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462903777</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462903753</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903746</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462903586</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462903272</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462903265</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462903234</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462903203</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462903111</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462902732</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462902633</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEB_9789462902572</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IER</str>
+                <str>DIGIBIEB_9789462902473</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462902442</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MIR</str>
+                <str>DIGIBIEB_9789462902374</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462901742</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462901506</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462901063</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462902305</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902206</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902152</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IER</str>
+                <str>DIGIBIEB_9789462902015</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462908277</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462907065</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462907058</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462907041</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462907003</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462906907</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462906600</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905825</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462905757</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789462905719</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462905672</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PR</str>
+                <str>DIGIBIEB_9789462905573</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462905511</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905504</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_FIN</str>
+                <str>DIGIBIEB_9789462905399</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462905382</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905368</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462905290</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PR</str>
+                <str>DIGIBIEB_9789462905160</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462905016</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904897</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904880</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904767</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462904712</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462904699</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEB_9789462904651</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462904552</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462904415</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904392</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462904354</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462906006</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905955</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEB_9789462905931</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905924</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462905917</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462902848</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462902831</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462902756</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462901803</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462369825</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462369788</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEB_9789462369740</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462369726</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462369634</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462369597</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462369580</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462369894</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462367845</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462367791</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462367777</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462367647</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462367586</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462367500</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462367371</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GOE</str>
+                <str>DIGIBIEB_9789462367357</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789462367029</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEB_9789462366947</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_OR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462366909</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462366879</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462366848</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MJU</str>
+                <str>DIGIBIEB_9789462366794</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PAR</str>
+                <str>DIGIBIEB_9789462366701</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462366695</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462366671</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_MSR</str>
+                <str>DIGIBIEB_9789462366565</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789462366381</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462365001</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462361812</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462361799</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908765</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789462908567</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_HUU</str>
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462908611</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462906716</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_CEM</str>
+                <str>DIGIBIEB_9789462367883</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462907201</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462368811</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462908734</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_OIR</str>
+                <str>DIGIBIEB_9789462366404</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462908154</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462366350</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_CEM</str>
+                <str>DIGIBIEB_9789462366541</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462907072</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789077596128</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEB_9789089745613</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_PFR</str>
+                <str>DIGIBIEB_9789089741912</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MIR</str>
+                <str>DIGIBIEB_9789089741240</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_GEZ</str>
+                <str>DIGIBIEB_9789089741196</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789077596999</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_ABR</str>
+                <str>DIGIBIEB_9789089741943</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_SBR</str>
+                <str>DIGIBIEB_9789077596166</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEB_9789089746962</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEBCOLL_BJU_BP_EUR</str>
+                <str>DIGIBIEB_9789089745712</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_VBR</str>
+                <str>DIGIBIEB_9789462905313</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_CEM</str>
+                <str>DIGIBIEB_9789089747174</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462901179</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462903036</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEB_9789462904811</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BUR</str>
+                <str>DIGIBIEBCOLL_BJU_BP_SR</str>
+                <str>DIGIBIEB_9789462906754</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BAS</str>
+                <str>DIGIBIEB_9789462900165</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_MIR</str>
+                <str>DIGIBIEB_9789462368163</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_IR</str>
+                <str>DIGIBIEB_9789462364332</str>
+            </arr>
+        </doc>
+        <doc>
+            <arr name="AccessCode">
+                <str>DIGIBIEBCOLL_BJU_BP_BEL</str>
+                <str>DIGIBIEB_9789089746603</str>
+            </arr>
+        </doc>
+    </result>
+    <lst name="facet_counts">
+        <lst name="facet_queries"/>
+        <lst name="facet_fields"/>
+        <lst name="facet_ranges"/>
+        <lst name="facet_intervals"/>
+        <lst name="facet_heatmaps"/>
+    </lst>
+</response>
